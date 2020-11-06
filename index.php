@@ -7,6 +7,8 @@
   </head>
   <body>
   <imput type="text" placeholder="Correo electrónico">
+  <imput type="password" placeholder="Contraseña">
+
 
 
 
